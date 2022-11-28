@@ -1,0 +1,18 @@
+.*{
+	/*ajustes obligatorios*/
+}
+.centrar{
+	text-align: center;
+}
+
+.color-rojo{
+	color: red;
+}
+
+.borde-solido{
+	border: 10px solid blue;
+}
+
+.borde-semi-continuo{
+	border: 10px dashed rgb(100, 150, 200);
+}
